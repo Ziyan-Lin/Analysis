@@ -1,0 +1,6 @@
+SampleID,Condition,bamReads,Peaks,PeakCaller
+KO1,KO,../BAM-DD/KO1.dd.bam,../peaks-bed/KO1.peaks.bed,bed
+KO2,KO,../BAM-DD/KO2.dd.bam,../peaks-bed/KO2.peaks.bed,bed
+WT1,WT,../BAM-DD/WT1.dd.bam,../peaks-bed/WT1.peaks.bed,bed
+WT2,WT,../BAM-DD/WT2.dd.bam,../peaks-bed/WT2.peaks.bed,bed
+WT3,WT,../BAM-DD/WT3.dd.bam,../peaks-bed/WT3.peaks.bed,bed
